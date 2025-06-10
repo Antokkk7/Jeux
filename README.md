@@ -35,7 +35,7 @@ Lien direct vers le jeu : __[Banksy Bot](https://atelier-vr-gaming.itch.io/banks
 
 </br>
 
-### Vermisel 3D
+### Vermisel 3D - Unity
 __Développeur :__ Antok </br>
 __Contexte du projet :__ _Service civique - initiation à la 3D_ </br>
 __Style :__ _Escape Games_ </br>
