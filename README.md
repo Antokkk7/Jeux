@@ -44,6 +44,15 @@ Lien direct vers le jeu : __[Vermisel 3D]__
 
 </br>
 
+### W.I.P
+__Développeur :__ Antok </br>
+__Contexte du projet :__ _W.I.P - // 2025(?) _ </br>
+__Style :__ _rpg_ </br>
+__Avancement :__ 🔳🔳⬜️⬜️⬜️⬜️⬜️⬜️⬜️  </br>
+Lien direct vers le jeu : __[W.I.P]__
+
+</br>
+
 ### Jeu n°5 (placeholder)
 __Développeur :__ Antok </br>
 __Contexte du projet :__ _à définir_ </br>
