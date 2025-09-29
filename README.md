@@ -48,7 +48,7 @@ Lien direct vers le jeu : __[Vermisel 3D]__
 __Développeur :__ Antok </br>
 __Contexte du projet :__ _W.I.P - // 2025(?) _ </br>
 __Style :__ _rpg_ </br>
-__Avancement :__ 🔳🔳⬜️⬜️⬜️⬜️⬜️⬜️⬜️  </br>
+__Avancement :__ 🔳🔳🔳⬜️⬜️⬜️⬜️⬜️⬜️  </br>
 Lien direct vers le jeu : __[W.I.P]__
 
 </br>
