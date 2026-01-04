@@ -40,7 +40,7 @@ __Développeur :__ Antok </br>
 __Contexte du projet :__ _Service civique - initiation à la 3D_ </br>
 __Style :__ _Escape Games_ </br>
 __Avancement :__ _Terminé !_ ✅ </br>
-Lien direct vers le jeu : __[Vermisel 3D]__
+Lien direct vers le jeu : __[Vermisel 3D](https://github.com/Antokkk7/Vermisel3D.git)__
 
 </br>
 
