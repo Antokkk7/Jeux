@@ -44,6 +44,15 @@ Lien direct vers le jeu : __[Vermisel 3D](https://github.com/Antokkk7/Vermisel3D
 
 </br>
 
+### Pendu PiqueSel - JavaFX
+__Développeur :__ Antok </br>
+__Contexte du projet :__ _Projet universitaire - initiation à JavaFx_ </br>
+__Style :__ _réflexion_ </br>
+__Avancement :__ _Terminé !_ ✅ </br>
+Lien direct vers le jeu : __[Pendu PiqueSel](https://github.com/Antokkk7/Pendu-PIXXEL/releases/tag/v1.0)__
+
+</br>
+
 ### W.I.P
 __Développeur :__ Antok </br>
 __Contexte du projet :__ _W.I.P - // 2026(?)_ </br>
